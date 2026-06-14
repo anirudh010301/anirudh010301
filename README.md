@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anirudh Adda 👋
+Data Engineer | AWS · GCP · Azure | Financial Services
 
-<!--
-**anirudh010301/anirudh010301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production-grade data infrastructure for regulated industries.
+4+ years across banking (U.S. Bank), insurance (RGA), and fund admin (Citco).
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Cloud:** AWS (Glue, Redshift, Kinesis, Lambda) · GCP (BigQuery, Dataflow, Pub/Sub) · Azure (Synapse, ADF)
+**Pipeline:** Apache Spark · Kafka · Airflow · dbt · Apache Beam · Flink
+**Infra:** Terraform · Docker · Kubernetes · GitHub Actions
+**Warehousing:** Snowflake · BigQuery · Redshift · Kimball Modeling · SCD Type 2
+**AI/Data:** ChromaDB · RAG Pipelines · LLM Integration (Llama 3) · FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+LinkedIn: linkedin.com/in/adda-anirudh
+Email: anirudhadda01@gmail.com
+
