@@ -1,6 +1,6 @@
 # Hi, I'm Anirudh Adda 👋
-## 🔧 Tech Stack
 
+## 🔧 Tech Stack
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -42,12 +42,6 @@
 Building production-grade data infrastructure for regulated industries.
 4+ years across banking (U.S. Bank), insurance (RGA), and fund admin (Citco).
 
-## 🔧 Tech Stack
-**Cloud:** AWS (Glue, Redshift, Kinesis, Lambda) · GCP (BigQuery, Dataflow, Pub/Sub) · Azure (Synapse, ADF)
-**Pipeline:** Apache Spark · Kafka · Airflow · dbt · Apache Beam · Flink
-**Infra:** Terraform · Docker · Kubernetes · GitHub Actions
-**Warehousing:** Snowflake · BigQuery · Redshift · Kimball Modeling · SCD Type 2
-**AI/Data:** ChromaDB · RAG Pipelines · LLM Integration (Llama 3) · FastAPI
 
 ## 📫 Connect
 LinkedIn: linkedin.com/in/adda-anirudh
