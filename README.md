@@ -39,11 +39,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Building production-grade data infrastructure for regulated industries.
-4+ years across banking (U.S. Bank), insurance (RGA), and fund admin (Citco).
-
 
 ## 📫 Connect
-LinkedIn: linkedin.com/in/adda-anirudh
-Email: anirudhadda01@gmail.com
+LinkedIn: www.linkedin.com/in/adda-anirudh01
+Email: addaanirudh01@gmail.com
 
